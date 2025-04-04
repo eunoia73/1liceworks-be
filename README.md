@@ -38,7 +38,7 @@
 ---
 
 ## 시퀀스 다이어그램
-👉 https://github.com/eunoia73/1liceworks-be.wiki.git
+👉 [시퀀스 다이어그램 링크](https://github.com/eunoia73/1liceworks-be/wiki/1liceworks-%EC%8B%9C%ED%80%80%EC%8A%A4-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8)
 
 ## API 문서
 
