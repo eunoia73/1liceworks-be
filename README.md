@@ -20,21 +20,6 @@
 | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) | Latest |
 | ![K6](https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white) | Latest |
 
-### 🔹 프론트엔드
-| 기술 | 버전 |
-|---|---|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | Latest |
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) | 18 |
-| ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) | 1.18.0 |
-| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | v4 |
-| ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcn&logoColor=white) | Latest |
-| ![Zustand](https://img.shields.io/badge/Zustand-FFC107?style=for-the-badge&logo=zustand&logoColor=black) | Latest |
-| ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white) | v5 |
-| ![React Big Calendar](https://img.shields.io/badge/React_Big_Calendar-3F51B5?style=for-the-badge&logo=react&logoColor=white) | Latest |
-| ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC407A?style=for-the-badge&logo=reacthookform&logoColor=white) | Latest |
-| ![Zod](https://img.shields.io/badge/Zod-0062FF?style=for-the-badge&logo=javascript&logoColor=white) | Latest |
-| ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) | Latest |
-
 ### 🔹 배포
 | 기술 | 버전 |
 |---|---|
@@ -67,9 +52,6 @@
 
 ### 🔹 백엔드
 ![백컨벤션.png](images%2F%EB%B0%B1%EC%BB%A8%EB%B2%A4%EC%85%98.png)
-
-### 🔹 프론트엔드
-![프론트컨벤션.png](images%2F%ED%94%84%EB%A1%A0%ED%8A%B8%EC%BB%A8%EB%B2%A4%EC%85%98.png)
 
 ---
 
