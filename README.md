@@ -37,6 +37,9 @@
 
 ---
 
+## 시퀀스 다이어그램
+👉 https://github.com/eunoia73/1liceworks-be.wiki.git
+
 ## API 문서
 
 👉 [Swagger 링크](http://34.22.92.60:8080/swagger-ui/index.html#/)
